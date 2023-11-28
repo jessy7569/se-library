@@ -1,7 +1,11 @@
-# Welcome to streamlit
+# Library Management system
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+To run the app using the streamlit run `streamlit run Login.py `
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+streamlit community cloud link to see the application is [click here](https://selibrary.streamlit.app/)
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+## on Windows/Mac 
+### step1 
+  open the terminal 
+### step 2
+  To install all the requirements using pip `pip install -r requirements.txt`
